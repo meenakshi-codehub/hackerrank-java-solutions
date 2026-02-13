@@ -2,7 +2,7 @@
  * HackerRank Problem: Java Loops I
  * Difficulty: Easy
  * Topic: Loops
- * Link: https://www.hackerrank.com/challenges/java-loops-i/problem
+ * Link: https://www.hackerrank.com/challenges/java-loops-i
  */
 
 import java.util.*;
