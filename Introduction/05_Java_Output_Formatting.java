@@ -1,6 +1,8 @@
 // HackerRank - Java Output Formatting
 // Topic: printf, formatted output
 // Difficulty: Easy
+// Link: https://www.hackerrank.com/challenges/java-output-formatting
+
 import java.util.Scanner;
 
 public class Solution {
