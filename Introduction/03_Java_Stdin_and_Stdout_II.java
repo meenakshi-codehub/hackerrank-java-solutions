@@ -1,6 +1,8 @@
 // HackerRank - Java Stdin and Stdout II
 // Topic: Scanner, input handling
 // Difficulty: Easy
+// Link: https://www.hackerrank.com/challenges/java-stdin-stdout
+
 import java.util.Scanner;
 
 public class Solution {
