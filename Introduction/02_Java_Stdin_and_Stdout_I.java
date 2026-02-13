@@ -1,3 +1,10 @@
+/*
+ * HackerRank Problem: Java Stdin and Stdout I
+ * Difficulty: Easy
+ * Topic: Input / Output
+ * Link: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1
+ */
+
 import java.util.Scanner;
 
 public class Solution {
