@@ -1,5 +1,7 @@
 // HackerRank - Java If-Else
 // Topic: Conditional statements
+// Link: https://www.hackerrank.com/challenges/java-if-else
+
 import java.util.Scanner;
 
 public class Solution {
