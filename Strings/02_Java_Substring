@@ -8,15 +8,23 @@
  * Print the substring in the inclusive range from 'start' to 'end-1'.
  */
 
+import java.io.*;
 import java.util.*;
 
 public class Solution {
 
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        String S = in.next();
-        int start = in.nextInt();
-        int end = in.nextInt();
-        System.out.println(S.substring(start, end));
+        
+        Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        int start = sc.nextInt();
+        int end = sc.nextInt();
+
+        // substring(start, end) -> start index inclusive, end index exclusive
+        String result = s.substring(start, end);
+        
+        System.out.println(result);
+        
+        sc.close();
     }
 }
