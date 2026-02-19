@@ -1,6 +1,7 @@
 /*
 Problem Name: Java Anagrams
 Platform: HackerRank
+Link: https://www.hackerrank.com/challenges/java-anagrams
 
 Description:
 Given two strings, determine whether they are anagrams of each other.
